@@ -6,7 +6,6 @@ This is my first website built with HTML.
 
 ## 🌍 Live Site
 https://monny-cloud.github.io/my-first-website/
-
 ## 🛠 Tech
 - HTML
 - GitHub Pages
